@@ -13,6 +13,6 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
 		
-		System.out.println(add(10, 20));
+		System.out.println(Phase2.add(10, 20));
 	}
 }
